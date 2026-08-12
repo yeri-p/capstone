@@ -48,3 +48,20 @@ ONSB는 IPFS와 블록체인 네트워크로 구성되어 웹의 형태로 제�
 
 <img height="240" alt="onsb_architecture" src="https://github.com/user-attachments/assets/afa956f6-36e1-4f03-bb93-0342c8a0855a" />
 
+<br/>
+
+## 🤝 프로젝트 팀원
+
+| 이름 | GitHub | 역할 |
+| :--: | :--: | :--: |
+| 김다운 | [<img src="https://github.com/kimdaun713.png" width="42"/><br/>@kimdaun713](https://github.com/kimdaun713) | 블록체인 및 웹 백엔드 |
+| 박예리 | [<img src="https://github.com/yeri-p.png" width="42"/><br/>@yeri-p](https://github.com/yeri-p) | 웹 프론트엔드 및 백엔드 |
+| 손상희 | — | 웹 프론트엔드 |
+| 양현주 | [<img src="https://github.com/Y-Seo-I.png" width="42"/><br/>@Y-Seo-I](https://github.com/Y-Seo-I) | 블록체인 및 웹 백엔드 |
+| 예창환 | — | 웹 프론트엔드 |
+
+### 📊 기여 내역
+
+<a href="https://github.com/yeri-p/capstone/graphs/contributors">
+  <img height="380" alt="image" src="https://github.com/user-attachments/assets/3643aa7c-de8a-414a-8f7e-0f09bb33fec9" />
+</a>
